@@ -1,4 +1,4 @@
 vim
 ===
 
-my vim config
+This is my Vim config repository
