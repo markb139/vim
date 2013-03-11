@@ -28,6 +28,9 @@ set laststatus=2
 let mapleader = ","
 nnoremap <leader>ev <C-w><C-v><C-l>:e ~/.vim/vimrc<cr>
 
+" quick save
+nnoremap <leader>w :w!<cr>
+
 " split window stuff
 nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
